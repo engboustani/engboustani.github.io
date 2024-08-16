@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MudBlazor.Jalali",
   "resources": {
-    "hash": "sha256-YXgjhWkOhtsB6KeiKyO+pfPi1WOmusIeCWZBcsRfecY=",
+    "hash": "sha256-wu0VBoLc/K+4+HaNpPkAK87Tw3uWK0QiB54y+zZLCI8=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.o77o0abdsr.js": "sha256-SGOlISx+3G4kkvpC9Uq3qoPGsnjxGmW61QBev0lyI5U="
     },
@@ -49,7 +49,7 @@
       "Microsoft.Win32.Primitives.wasm": "sha256-oD1muSOn/478JVc9gSNbBTTEcaYwz7EY1eDchUtwTz0=",
       "Microsoft.Win32.Registry.wasm": "sha256-jLUbEiwkWNnbRfmCct9w8kTfDYKwj6duc48xabNP5YY=",
       "mscorlib.wasm": "sha256-EpWTfh4m/hEcXRFYMCR9YeYHwdUJgcm1laBaxWfq2S4=",
-      "MudBlazor.Jalali.wasm": "sha256-O6w2TiWH5Zl4IxWct5SkGsg0KSu9vkLo328DQmUxXxE=",
+      "MudBlazor.Jalali.wasm": "sha256-Fa6YT6fq3plYpqWUrM578Zm3Re/tFsAY9XCn95zWIFE=",
       "MudBlazor.wasm": "sha256-WOphMIT5mvw5KzoCYRvQGXJoeQaNOQHqaFQkSsqDwbc=",
       "netstandard.wasm": "sha256-2kH24/YfHmU3B4eYRyRmiwebYROM4+B9eDWKvMnUdP8=",
       "System.AppContext.wasm": "sha256-7sZOFmxCctglvIZ0zCcUrXQnUFY/dxQMNYbwYeGu0kw=",
